@@ -1,4 +1,3 @@
-12KJaya_factorial.py
 #Factorials in Python
 #Author : @GhostUser
 
